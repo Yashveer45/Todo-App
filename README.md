@@ -46,9 +46,9 @@ No database or backend server is required.
 
 ## 🌐 Live Demo
 
-[Click here to view the To-Do List Website](https://Yashveer45.github.io/todo-app/)
+[Click here to view the To-Do List Website](https://yashveer45.github.io/Todo-App/)
 
-Replace `YOUR-USERNAME` with your GitHub username after publishing the website using GitHub Pages.
+
 
 ## 🎯 Project Objective
 
